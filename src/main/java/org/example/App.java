@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
  * Hello world!
- *
+ * this is a comment
  */
 public class App 
 {
